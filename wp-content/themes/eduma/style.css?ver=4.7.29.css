@@ -1,0 +1,2954 @@
+body {
+  background-color: #fff;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.7em;
+  color: #666;
+}
+body .content-pusher {
+  background-color: #fff;
+}
+body #main-content {
+  background-color: #fff;
+}
+h1 {
+  color: #333;
+  font-size: 36px;
+  font-weight: 200;
+  font-style: normal;
+  text-transform: none;
+  line-height: 1.6em;
+}
+h2 {
+  color: #333;
+  font-size: 28px;
+  font-weight: 200;
+  font-style: normal;
+  text-transform: none;
+  line-height: 1.6em;
+}
+h3 {
+  color: #333;
+  font-size: 24px;
+  font-weight: 200;
+  font-style: normal;
+  text-transform: none;
+  line-height: 1.6em;
+}
+h4 {
+  color: #333;
+  font-size: 18px;
+  font-weight: 200;
+  font-style: normal;
+  text-transform: none;
+  line-height: 1.6em;
+}
+h5 {
+  color: #333;
+  font-size: 16px;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: none;
+  line-height: 1.6em;
+}
+h6 {
+  color: #333;
+  font-size: 16px;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: none;
+  line-height: 1.4em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Montserrat;
+}
+::-moz-selection {
+  background: #f58220;
+  color: #fff !important;
+}
+::selection {
+  background: #f58220;
+  color: #fff !important;
+}
+button,
+input[type="submit"] {
+  background: #f58220;
+  color: #fff;
+}
+button:hover,
+input[type="submit"]:hover {
+  background: #145094;
+  color: #fff;
+}
+#back-to-top:hover {
+  background: #f58220;
+  color: #145094;
+}
+.loop-pagination li .page-numbers:hover,
+.pagination li .page-numbers:hover {
+  border: 1px #f58220 solid;
+  color: #f58220;
+}
+.loop-pagination li .page-numbers.next:before,
+.pagination li .page-numbers.next:before {
+  font-size: 15px;
+}
+.loop-pagination li .page-numbers.current,
+.pagination li .page-numbers.current {
+  border: 1px #f58220 solid;
+  color: #f58220;
+}
+.wpcf7-form.style-01 .contact-form-content .email input,
+.wpcf7-form.style-01 .contact-form-content .name input,
+.wpcf7-form.style-01 .contact-form-content .subject input {
+  background: #fff;
+}
+.wpcf7-form.style-01 .contact-form-content .message textarea {
+  background: #fff;
+}
+.wpcf7-form.style-01 .contact-form-content .submit-btn input {
+  background: #f58220;
+}
+.wpcf7-form.style-02 {
+  background: #f58220;
+}
+.wpcf7-form.style-02 .contact-form-content .name input {
+  background: #fff;
+}
+.wpcf7-form.style-02 .contact-form-content .email input {
+  background: #fff;
+}
+.wpcf7-form.style-02 .contact-form-content .subject input {
+  background: #fff;
+}
+.wpcf7-form.style-02 .contact-form-content .message textarea {
+  background: #fff;
+}
+.comments-area .comment-list .comment-list-inner li .comment-extra-info a:hover,
+.woocommerce
+  #content
+  .comments-area
+  .comment-list
+  .comment-list-inner
+  li
+  .comment-extra-info
+  a:hover,
+.woocommerce
+  .comments-area
+  .comment-list
+  .comment-list-inner
+  li
+  .comment-extra-info
+  a:hover {
+  color: #f58220;
+}
+.comments-area .comment-list .comment-list-inner .form-submit input#submit,
+.woocommerce
+  #content
+  .comments-area
+  .comment-list
+  .comment-list-inner
+  .form-submit
+  input#submit,
+.woocommerce
+  .comments-area
+  .comment-list
+  .comment-list-inner
+  .form-submit
+  input#submit {
+  background: #f58220;
+  color: #145094;
+}
+.comments-area
+  .comment-list
+  .comment-list-inner
+  .form-submit
+  input#submit:hover,
+.woocommerce
+  #content
+  .comments-area
+  .comment-list
+  .comment-list-inner
+  .form-submit
+  input#submit:hover,
+.woocommerce
+  .comments-area
+  .comment-list
+  .comment-list-inner
+  .form-submit
+  input#submit:hover {
+  background: #145094;
+  color: #fff;
+}
+#respond.comment-respond .comment-form .form-submit input#submit {
+  background: #f58220;
+  color: #fff;
+}
+#respond.comment-respond .comment-form .form-submit input#submit:hover {
+  background: #145094;
+}
+.flexslider .flex-direction-nav .flex-prev:before {
+  color: #f58220;
+}
+.flexslider .flex-direction-nav .flex-next:before {
+  color: #f58220;
+}
+.thim-widget-courses-searching
+  .thim-course-search-overlay
+  .courses-searching
+  button {
+  background: #f58220;
+}
+#bbp-search-form > .bbp-search-box #bbp_search:focus,
+.search-form .search-field:focus,
+.switch-layout-container .courses-searching form input[type="text"]:focus {
+  border-color: #f58220;
+}
+.list-info li {
+  font-size: 16px;
+}
+.list-info li i {
+  color: #f58220;
+}
+.top_site_main .page-title-wrapper h1:before,
+.top_site_main .page-title-wrapper h2:before {
+  background: #f58220;
+}
+.breadcrumbs-wrapper .thim-breadcrumbs,
+.breadcrumbs-wrapper .woocommerce-breadcrumb {
+  color: #666;
+}
+.breadcrumbs-wrapper .thim-breadcrumbs a,
+.breadcrumbs-wrapper .woocommerce-breadcrumb a {
+  color: #666;
+}
+.breadcrumbs-wrapper .thim-breadcrumbs a:hover,
+.breadcrumbs-wrapper .woocommerce-breadcrumb a:hover {
+  color: #f58220;
+}
+.breadcrumbs-wrapper.button-list-gird .display .switcher-active i,
+.breadcrumbs-wrapper.button-list-gird .display a:hover i {
+  color: #f58220;
+}
+.breadcrumbs-wrapper #breadcrumbs li {
+  color: #666;
+}
+.breadcrumbs-wrapper #breadcrumbs li a {
+  color: #666;
+}
+.breadcrumbs-wrapper #breadcrumbs li a:hover {
+  color: #f58220;
+}
+.btn-primary {
+  background-color: #f58220;
+  border-color: #f58220;
+}
+.btn-border:hover {
+  color: #f58220;
+  border-color: #f58220;
+}
+.slider-desc .btn {
+  font-size: 16px;
+}
+input[type="radio"]:checked:before {
+  background-color: #f58220;
+}
+input[type="checkbox"]:checked:before {
+  color: #f58220;
+}
+.list-address li {
+  font-size: 16px;
+  color: #333;
+}
+.list-address li i {
+  color: #f58220;
+}
+.one-courses-page-content .row-item .courses-price {
+  font-size: 18px;
+  color: #f58220;
+}
+.one-courses-page-content .row-item .number-students {
+  font-size: 16px;
+}
+.one-courses-page-content .row-item .number-students:before {
+  color: #f58220;
+}
+.thim-color {
+  color: #f58220;
+}
+.thim-bg-color {
+  background-color: #f58220;
+}
+.thim-bg-overlay-color {
+  position: relative;
+}
+.thim-bg-overlay-color:before {
+  position: absolute;
+  background: rgba(245, 130, 32, 0.92);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  z-index: 0;
+}
+.thim-bg-overlay-color > .panel-grid-cell {
+  position: relative;
+}
+.thim-bg-overlay-color-half {
+  position: relative;
+}
+.thim-bg-overlay-color-half:before {
+  content: "";
+  position: absolute;
+  background: rgba(245, 130, 32, 0.5);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  z-index: 0;
+}
+.thim-bg-overlay-color-half > div {
+  position: relative;
+}
+.thim-color-title {
+  color: #145094;
+}
+.thim-border-top {
+  border-top: 1px solid #eee;
+}
+.footer-bottom .thim-widget-icon-box {
+  position: relative;
+}
+.footer-bottom .thim-widget-icon-box:before {
+  content: "";
+  position: absolute;
+  background: rgba(245, 130, 32, 0.5);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  z-index: 2;
+}
+.footer-bottom .thim-widget-icon-box > .wrapper-box-icon {
+  position: relative;
+}
+.thim-bg-black {
+  background-color: #000;
+}
+.site-header {
+  background: #fff;
+}
+.site-header.header_v2 {
+  background: #145094;
+}
+#toolbar {
+  background: #145094;
+  color: #f38231;
+  font-size: 12px;
+}
+#toolbar a {
+  color: #fff;
+}
+#toolbar a:hover {
+  text-decoration: underline;
+}
+#toolbar span.value {
+  color: #fff;
+}
+#toolbar .widget_form-login .thim-link-login a:first-child:not(:last-child) {
+  border-right-color: #f38231;
+}
+@media (min-width: 769px) {
+  .navigation .navbar-nav #magic-line {
+    background: #f58220;
+  }
+  .navigation .navbar-nav > li .sub-menu {
+    background: #fff;
+  }
+  .navigation .navbar-nav > li .sub-menu li > a,
+  .navigation .navbar-nav > li .sub-menu li > span {
+    border-bottom: 1px solid rgba(43, 43, 43, 0);
+    color: #999;
+  }
+  .navigation .navbar-nav > li .sub-menu li > a:hover,
+  .navigation .navbar-nav > li .sub-menu li > span:hover {
+    color: #333;
+  }
+  .navigation .navbar-nav > li .sub-menu > li.current-menu-item span,
+  .navigation .navbar-nav > li .sub-menu > li.current-menu-item > a {
+    color: #333;
+  }
+  .navigation .navbar-nav > li .sub-menu > li:last-child > a,
+  .navigation .navbar-nav > li .sub-menu > li:last-child > span {
+    border-bottom: 0;
+  }
+  .navigation .navbar-nav > li .sub-menu.megacol > li:last-child > a,
+  .navigation .navbar-nav > li .sub-menu.megacol > li:last-child > span {
+    border-bottom: 1px solid rgba(43, 43, 43, 0);
+  }
+  .navigation .navbar-nav > li > a,
+  .navigation .navbar-nav > li > span {
+    color: #606060;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .navigation .navbar-nav > li > a:hover,
+  .navigation .navbar-nav > li > span:hover {
+    color: #f38230;
+  }
+}
+.menu-right .search-form:after {
+  color: #606060;
+}
+.thim-mobile-login a:hover {
+  color: #f58220;
+}
+@media (max-width: 768px) {
+  .mobile-menu-container {
+    background: #195292;
+  }
+  .mobile-menu-container ul li > a,
+  .mobile-menu-container ul li > span {
+    color: #bababa;
+  }
+  .mobile-menu-container ul li > a:hover,
+  .mobile-menu-container ul li > span:hover {
+    color: #fff;
+  }
+  .mobile-menu-container ul li.current-menu-item > a,
+  .mobile-menu-container ul li.current-menu-item > span {
+    color: #fff;
+  }
+  .menu-mobile-effect span {
+    background-color: #bababa;
+  }
+  .navbar-nav .sub-menu:before {
+    background: #bababa;
+  }
+  .navbar-nav .sub-menu li:before {
+    background: #bababa;
+  }
+}
+.menu-mobile-effect.navbar-toggle span.icon-bar {
+  background: #606060;
+}
+.site-header.affix .menu-mobile-effect.navbar-toggle span.icon-bar {
+  background: #333;
+}
+.site-header.bg-custom-sticky.affix {
+  background: #fff;
+}
+.site-header.bg-custom-sticky.affix.header_v2 {
+  background: #145094;
+}
+.site-header.bg-custom-sticky.affix .navbar-nav > li > a,
+.site-header.bg-custom-sticky.affix .navbar-nav > li > span {
+  color: #333;
+}
+.site-header.bg-custom-sticky.affix .navbar-nav > li > a:hover,
+.site-header.bg-custom-sticky.affix .navbar-nav > li > span:hover {
+  color: #333;
+}
+.site-header.bg-custom-sticky.affix .navbar-nav li.menu-right li a,
+.site-header.bg-custom-sticky.affix .navbar-nav li.menu-right li div,
+.site-header.bg-custom-sticky.affix .navbar-nav li.menu-right li span {
+  color: #333;
+}
+.site-header.bg-custom-sticky.affix .navbar-nav li.menu-right li a:hover,
+.site-header.bg-custom-sticky.affix .navbar-nav li.menu-right li div:hover,
+.site-header.bg-custom-sticky.affix .navbar-nav li.menu-right li span:hover {
+  color: #333;
+}
+.site-header.bg-custom-sticky.affix
+  .navbar-nav
+  li.menu-right
+  .search-form:after {
+  color: #333;
+}
+.thim-course-search-overlay .search-toggle {
+  color: #606060;
+}
+.site-header.affix .thim-course-search-overlay .search-toggle {
+  color: #333;
+}
+.site-header.affix .thim-course-search-overlay .search-toggle:hover {
+  color: #f58220 !important;
+}
+.thim-course-search-overlay .search-toggle:hover {
+  color: #f58220;
+}
+.width-logo > a {
+  width: 170px;
+  display: inline-block;
+}
+.width-navigation,
+body.thim-demo-university-4 .toolbar-container {
+  width: calc(100% - 170px);
+}
+.width-navigation-left,
+.width-navigation-right {
+  width: calc(50% - 85px);
+}
+.width-navigation-left .navbar-nav {
+  text-align: left;
+}
+footer#colophon {
+  background: #111;
+}
+footer#colophon .footer {
+  color: #999;
+}
+footer#colophon .footer .widget-title {
+  color: #fff;
+}
+footer#colophon .footer a {
+  color: #999;
+}
+footer#colophon .footer a:hover {
+  color: #f58220 !important;
+}
+footer#colophon .footer .thim-social a:hover {
+  color: #fff !important;
+}
+footer#colophon .footer .thim-footer-location .info {
+  color: rgba(255, 255, 255, 0.9);
+}
+footer#colophon .footer .thim-footer-location .info a {
+  color: rgba(255, 255, 255, 0.9);
+}
+footer#colophon .footer .thim-footer-location .info a:hover {
+  color: #f58220;
+}
+footer#colophon .footer .thim-footer-location .info .fa {
+  color: #999;
+}
+footer#colophon .footer .thim-footer-location .social a {
+  color: #666;
+  border-color: #666;
+}
+footer#colophon .footer .thim-footer-location .social a:hover {
+  color: #f58220;
+  border-color: #f58220;
+}
+footer#colophon .copyright-area {
+  background: #111;
+  color: #999;
+}
+footer#colophon .copyright-area .copyright-content {
+  border-top: 1px solid rgba(153, 153, 153, 0.15);
+}
+footer#colophon .copyright-area .text-copyright a {
+  color: #f58220;
+}
+footer#colophon .copyright-area ul li a {
+  color: #999;
+}
+footer#colophon .copyright-area ul li a:hover {
+  color: #999;
+}
+.thim-social li a {
+  color: #666;
+  border-color: #666;
+}
+.thim-social li a:hover {
+  color: #f58220;
+  border-color: #f58220;
+}
+.wpcf7-form input[type="date"],
+.wpcf7-form input[type="email"],
+.wpcf7-form input[type="number"],
+.wpcf7-form input[type="tel"],
+.wpcf7-form input[type="text"],
+.wpcf7-form select,
+.wpcf7-form textarea {
+  border-color: #eee;
+}
+.wpcf7-form input[type="date"]:focus,
+.wpcf7-form input[type="email"]:focus,
+.wpcf7-form input[type="number"]:focus,
+.wpcf7-form input[type="tel"]:focus,
+.wpcf7-form input[type="text"]:focus,
+.wpcf7-form select:focus,
+.wpcf7-form textarea:focus {
+  border-color: #f58220;
+}
+.wpcf7-form .wpcf7-submit {
+  background: #f58220;
+  color: #fff;
+}
+.wpcf7-form .wpcf7-submit:hover {
+  background: #145094;
+}
+.mc4wp-form .mc4wp-form-fields input[type="email"]:focus {
+  border-color: #f58220;
+}
+.mc4wp-form .mc4wp-form-fields button[type="submit"],
+.mc4wp-form .mc4wp-form-fields input[type="submit"] {
+  background: #f58220;
+  color: #fff;
+}
+.thim-newlleter-homepage
+  .mc4wp-form
+  .mc4wp-form-fields
+  button[type="submit"]:hover,
+.thim-newlleter-homepage
+  .mc4wp-form
+  .mc4wp-form-fields
+  input[type="submit"]:hover {
+  background: #145094;
+  color: #fff;
+}
+.thim-register-now-form .title:before {
+  background: #f58220;
+}
+.thim-register-now-form .wpcf7-form .wpcf7-submit:hover {
+  background: #f58220;
+  color: #145094;
+}
+.thim-owl-carousel-post .info {
+  background: rgba(245, 130, 32, 0.9);
+}
+.thim-owl-carousel-post .title a:hover {
+  color: #f58220;
+}
+.thim-owl-carousel-post .owl-controls .owl-next:hover,
+.thim-owl-carousel-post .owl-controls .owl-prev:hover {
+  border-color: #f58220;
+}
+.thim-owl-carousel-post .owl-controls .owl-next:hover .fa,
+.thim-owl-carousel-post .owl-controls .owl-prev:hover .fa {
+  color: #f58220;
+}
+.thim-widget-accordion .panel-title a:after {
+  color: #145094;
+}
+.thim-widget-accordion .panel-title a:not(.collapsed):before {
+  background: #f58220;
+}
+.thim-widget-accordion .panel-title a:not(.collapsed):after {
+  color: #f58220;
+}
+.sc_heading .title {
+  color: #145094;
+}
+.sc_heading .line {
+  background-color: #145094;
+}
+article .entry-header .date-meta {
+  color: #f58220;
+}
+article .entry-header .entry-title a {
+  color: #145094;
+}
+article .entry-header .entry-title a:hover {
+  color: #f58220;
+}
+article .readmore a {
+  color: #fff;
+  background: #f58220;
+}
+article .readmore a:hover {
+  color: #fff;
+  background: #145094;
+}
+.entry-tag-share .post-tag a {
+  color: #145094;
+}
+.entry-tag-share .post-tag a:hover {
+  color: #f58220;
+}
+.thim-about-author .author-top .name {
+  color: #145094;
+}
+.thim-about-author .author-top a.name:hover {
+  color: #f58220;
+}
+.entry-navigation-post .next-post .title a,
+.entry-navigation-post .prev-post .title a {
+  color: #145094;
+}
+.entry-navigation-post .next-post .title a:hover,
+.entry-navigation-post .prev-post .title a:hover {
+  color: #f58220;
+}
+.related-archive ul.archived-posts > li h5 a {
+  color: #145094;
+}
+.related-archive ul.archived-posts > li h5 a:hover {
+  color: #f58220;
+}
+.comments-area
+  .comment-list
+  .comment-list-inner
+  li
+  .comment-extra-info
+  .author
+  a {
+  color: #145094;
+}
+.comments-area
+  .comment-list
+  .comment-list-inner
+  li
+  .comment-extra-info
+  .author
+  a:hover {
+  color: #f58220;
+}
+.comments-area
+  .comment-list
+  .comment-list-inner
+  li
+  .comment-extra-info
+  .author
+  .author-name {
+  color: #145094;
+}
+#respond .logged-in-as a {
+  color: #145094;
+}
+#respond .logged-in-as a:hover {
+  color: #f58220;
+}
+#respond #cancel-comment-reply-link {
+  color: #145094;
+}
+#respond #cancel-comment-reply-link:hover {
+  color: #f58220;
+}
+.loop-pagination li .page-numbers,
+.pagination li .page-numbers {
+  color: #145094;
+}
+.loop-pagination li .page-numbers:hover,
+.pagination li .page-numbers:hover {
+  background: #f58220;
+  border-color: #f58220;
+  color: #fff;
+}
+.loop-pagination li .page-numbers.current,
+.pagination li .page-numbers.current {
+  background: #f58220;
+  border-color: #f58220;
+  color: #fff;
+}
+.widget-area aside:before {
+  background: #f58220;
+}
+.widget-area aside.widget ul li a {
+  color: #145094;
+}
+.widget-area aside.widget ul li a:hover {
+  color: #f58220;
+}
+.widget-area aside.widget ul li.current-cat > a {
+  color: #f58220;
+}
+.widget-area .thim-list-posts.sidebar .article-title-wrapper a {
+  color: #145094;
+}
+.widget-area .thim-list-posts.sidebar .article-title-wrapper a:hover {
+  color: #f58220;
+}
+.widget-area .thim-course-list-sidebar .thim-course-content .course-title a {
+  color: #145094;
+}
+.widget-area
+  .thim-course-list-sidebar
+  .thim-course-content
+  .course-title
+  a:hover {
+  color: #f58220;
+}
+.counter-box.number-left .display-percentage {
+  font-family: Montserrat;
+}
+.counter-box.number-left .counter-box-content {
+  color: #145094;
+  font-family: Montserrat;
+}
+.counter-box.number-left .view-more {
+  color: #145094;
+}
+.counter-box .display-percentage {
+  color: #f58220;
+}
+.counter-box.about-us .display-percentage {
+  color: #145094;
+}
+.page-404-content a:hover {
+  color: #f58220;
+}
+.quickview .product-info .right .product_meta a {
+  color: #145094;
+}
+.quickview .product-info .right .product_meta a:hover {
+  color: #f58220;
+}
+.filter-controls li a,
+.product-cat li a {
+  color: #666;
+}
+.filter-controls li a.active,
+.filter-controls li a:hover,
+.product-cat li a.active,
+.product-cat li a:hover {
+  color: #145094;
+  border-color: #f58220;
+}
+.product-grid .product__title .title {
+  font-family: Montserrat;
+}
+.product-grid .product__title a {
+  color: #145094;
+}
+.product-grid .product__title a:hover {
+  color: #f58220;
+}
+.product-grid .product__title a.added_to_cart {
+  color: #145094 !important;
+}
+.product-grid .product__title .added_to_cart,
+.product-grid .product__title a.button.add_to_cart_button {
+  background: #f58220 !important;
+  color: #fff !important;
+}
+.product-grid .product__title .added_to_cart:before,
+.product-grid .product__title a.button.add_to_cart_button:before {
+  color: #fff !important;
+}
+.product-grid .product__title .added_to_cart:hover,
+.product-grid .product__title a.button.add_to_cart_button:hover {
+  background: #145094 !important;
+  color: #fff !important;
+}
+.quickview .product-info .right .cart a {
+  color: #666;
+}
+.quickview .product-info .right .cart a:hover {
+  color: #f58220;
+}
+.quickview .product-info .right .cart button.button {
+  background: #f58220;
+  color: #fff;
+}
+.quickview .product-info .right .cart button.button:hover {
+  background: #145094;
+  color: #fff;
+}
+.quickview .quick-view-detail {
+  color: #666;
+}
+.quickview .quick-view-detail:hover {
+  color: #f58220;
+}
+.product_thumb .onsale {
+  background: #f58220 !important;
+  color: #145094;
+}
+.mfp-image-holder .course-content .mfp-close,
+.mfp-inline-holder .course-content .mfp-close {
+  background: #145094;
+}
+.product-cat li a {
+  color: #666;
+}
+.woocommerce div.product .onsale,
+.woocommerce-page div.product .onsale {
+  background: #f58220 !important;
+  color: #145094;
+}
+.woocommerce div.product .woocommerce-review-link,
+.woocommerce-page div.product .woocommerce-review-link {
+  color: #666;
+}
+.woocommerce div.product .woocommerce-review-link:hover,
+.woocommerce-page div.product .woocommerce-review-link:hover {
+  color: #f58220;
+}
+.woocommerce div.product .product_meta a,
+.woocommerce-page div.product .product_meta a {
+  color: #666;
+}
+.woocommerce div.product .product_meta a:hover,
+.woocommerce-page div.product .product_meta a:hover {
+  color: #f58220;
+}
+.woocommerce div.product form.cart,
+.woocommerce-page div.product form.cart {
+  margin-bottom: 15px;
+}
+.woocommerce div.product form.cart .button,
+.woocommerce-page div.product form.cart .button {
+  background: #f58220;
+  color: #fff;
+}
+.woocommerce div.product form.cart .button:hover,
+.woocommerce-page div.product form.cart .button:hover {
+  color: #fff;
+  background: #145094;
+}
+.woocommerce div.product .woocommerce-tabs .tabs .active a,
+.woocommerce-page div.product .woocommerce-tabs .tabs .active a {
+  border-bottom: 2px solid #f58220;
+  color: #145094 !important;
+}
+.woocommerce
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #comments
+  .commentlist
+  li
+  .comment-text
+  .meta
+  strong,
+.woocommerce-page
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #comments
+  .commentlist
+  li
+  .comment-text
+  .meta
+  strong {
+  color: #f58220;
+}
+.woocommerce
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  .form-submit
+  .submit,
+.woocommerce-page
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  .form-submit
+  .submit {
+  color: #fff !important;
+  background-color: #f58220;
+}
+.woocommerce
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  .form-submit
+  .submit:hover,
+.woocommerce-page
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  .form-submit
+  .submit:hover {
+  color: #fff !important;
+  background: #145094 !important;
+}
+.woocommerce
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  p
+  label,
+.woocommerce-page
+  div.product
+  .woocommerce-tabs
+  .entry-content
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  p
+  label {
+  color: #145094;
+}
+.woocommerce div.product .related-products > h2,
+.woocommerce div.product .upsells-products > h2,
+.woocommerce-page div.product .related-products > h2,
+.woocommerce-page div.product .upsells-products > h2 {
+  color: #145094;
+}
+.woocommerce .star-rating,
+.woocommerce-page .star-rating {
+  color: #f58220;
+}
+.woocommerce .star-rating span::before,
+.woocommerce-page .star-rating span::before {
+  color: #f58220;
+}
+.woocommerce .star-rating:before,
+.woocommerce-page .star-rating:before {
+  color: #f58220;
+}
+.woocommerce .comment-form-rating a,
+.woocommerce-page .comment-form-rating a {
+  color: #f58220;
+}
+.woocommerce .comment-form-rating a:hover,
+.woocommerce-page .comment-form-rating a:hover {
+  color: #f58220;
+}
+.woocommerce .woocommerce-shipping-calculator a,
+.woocommerce-page .woocommerce-shipping-calculator a {
+  color: #f58220;
+}
+.woocommerce div.woocommerce-info,
+.woocommerce div.woocommerce-message,
+.woocommerce-page div.woocommerce-info,
+.woocommerce-page div.woocommerce-message {
+  border-top-color: #f58220;
+}
+.woocommerce div.woocommerce-info:before,
+.woocommerce div.woocommerce-message:before,
+.woocommerce-page div.woocommerce-info:before,
+.woocommerce-page div.woocommerce-message:before {
+  color: #f58220;
+}
+.woocommerce .form-row label.checkbox a,
+.woocommerce .woocommerce-info .showcoupon,
+.woocommerce-page .form-row label.checkbox a,
+.woocommerce-page .woocommerce-info .showcoupon {
+  color: #f58220;
+}
+.woocommerce-page .button {
+  color: #fff !important;
+  background: #111 !important;
+}
+.woocommerce-page .button:hover {
+  color: #145094 !important;
+  background-color: #f58220 !important;
+}
+.woocommerce-page .product-name a {
+  color: #145094;
+}
+.woocommerce-page .product-name a:hover {
+  color: #f58220;
+}
+.woocommerce-page .cart_totals h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.woocommerce form .form-row label {
+  color: #145094;
+}
+.quickview .product-info .right .cart button.button,
+.widget_shopping_cart .widget_shopping_cart_content .buttons a.checkout,
+.woocommerce #payment #place_order,
+.woocommerce .wc-proceed-to-checkout a.button,
+.woocommerce div.product form.cart .button,
+.woocommerce-page #payment #place_order,
+.woocommerce-page .wc-proceed-to-checkout a.button,
+.woocommerce-page div.product form.cart .button {
+  background: #f58220 !important;
+  color: #fff !important;
+}
+.quickview .product-info .right .cart button.button:hover,
+.widget_shopping_cart .widget_shopping_cart_content .buttons a.checkout:hover,
+.woocommerce #payment #place_order:hover,
+.woocommerce .wc-proceed-to-checkout a.button:hover,
+.woocommerce div.product form.cart .button:hover,
+.woocommerce-page #payment #place_order:hover,
+.woocommerce-page .wc-proceed-to-checkout a.button:hover,
+.woocommerce-page div.product form.cart .button:hover {
+  background: #145094 !important;
+  color: #fff !important;
+}
+.woocommerce div.product .woocommerce-tabs .tabs.wc-tabs li.active:before,
+.woocommerce-page div.product .woocommerce-tabs .tabs.wc-tabs li.active:before {
+  background: #f58220;
+}
+.widget_shopping_cart .minicart_hover .cart-items-number {
+  color: #606060;
+}
+.site-header.affix .widget_shopping_cart .minicart_hover .cart-items-number {
+  color: #333;
+}
+.widget_shopping_cart
+  .minicart_hover
+  .cart-items-number
+  span.wrapper-items-number {
+  background: #f58220;
+  color: #145094;
+}
+.widget_shopping_cart .widget_shopping_cart_content {
+  color: #145094;
+}
+.widget_shopping_cart
+  .widget_shopping_cart_content
+  .cart_list.product_list_widget
+  li
+  a {
+  color: #145094;
+}
+.widget_shopping_cart
+  .widget_shopping_cart_content
+  .cart_list.product_list_widget
+  li
+  a:hover {
+  color: #f58220;
+}
+.widget_shopping_cart
+  .widget_shopping_cart_content
+  .cart_list.product_list_widget
+  li
+  dl {
+  color: #145094;
+}
+.widget_shopping_cart
+  .widget_shopping_cart_content
+  .cart_list.product_list_widget
+  li
+  span {
+  color: #145094;
+}
+.widget_shopping_cart
+  .widget_shopping_cart_content
+  .cart_list.product_list_widget
+  li
+  .quantity {
+  color: #145094;
+}
+.widget_shopping_cart
+  .widget_shopping_cart_content
+  .cart_list.product_list_widget
+  .empty {
+  color: #145094 !important;
+}
+.widget_shopping_cart .widget_shopping_cart_content .total {
+  color: #145094 !important;
+}
+.widget_shopping_cart .widget_shopping_cart_content .total span {
+  color: #145094 !important;
+}
+.widget_shopping_cart .widget_shopping_cart_content .buttons a {
+  color: #fff;
+  background: #111;
+}
+.widget_shopping_cart .widget_shopping_cart_content .buttons a:hover {
+  background: #f58220;
+  color: #145094;
+}
+.woocommerce table,
+.woocommerce td,
+.woocommerce tr {
+  border-color: #eee;
+}
+.woocommerce .cart_totals table {
+  border-right: 0;
+}
+.woocommerce .cart_totals table tr {
+  border: 0;
+}
+.woocommerce .cart_totals table tr.cart-subtotal td,
+.woocommerce .cart_totals table tr.order-total td {
+  border-bottom: 0;
+}
+.woocommerce table.cart tr {
+  border: 0;
+}
+.woocommerce table.cart tr td {
+  border-top: 1px solid #eee;
+  border-bottom: 0;
+}
+.woocommerce table.cart tr td:last-child {
+  border-right: 0;
+}
+.woocommerce table.cart.shop_table {
+  border-radius: 0;
+  border: 1px solid #eee;
+}
+.woocommerce table.cart.shop_table th {
+  border-right: 1px solid #eee;
+}
+.woocommerce table.cart.shop_table th:last-child {
+  border-right: 0;
+}
+#customer_login form input[type="submit"] {
+  background: #f58220 !important;
+  color: #fff !important;
+}
+#customer_login form input[type="submit"]:hover {
+  background: #145094 !important;
+  color: #fff !important;
+}
+#customer_login form .remember {
+  color: #145094;
+}
+#customer_login form .link-bottom,
+#customer_login form .lost-password {
+  color: #145094;
+}
+#customer_login form .link-bottom a,
+#customer_login form .lost-password a {
+  color: #f58220;
+}
+#customer_login form .link-bottom a:hover,
+#customer_login form .lost-password a:hover {
+  color: #f58220;
+}
+.woocommerce .reset_password form .description {
+  color: #145094;
+}
+.woocommerce .reset_password form input[type="submit"] {
+  background: #f58220 !important;
+  color: #fff !important;
+}
+.woocommerce .reset_password form input[type="submit"]:hover {
+  background: #145094 !important;
+  color: #fff !important;
+}
+.thim-course-grid .course-item .thim-course-content .course-title a {
+  color: #145094;
+}
+.thim-course-grid .course-item .thim-course-content .course-title a:hover {
+  color: #f58220;
+}
+.thim-course-grid .course-item .thim-course-content .course-meta:before {
+  background: #f58220;
+}
+.thim-course-grid
+  .course-item
+  .thim-course-content
+  .course-meta
+  > div.course-comments-count,
+.thim-course-grid
+  .course-item
+  .thim-course-content
+  .course-meta
+  > div.course-student {
+  font-family: Montserrat;
+}
+.thim-course-grid .course-item .thim-course-content .course-meta > div a:hover {
+  color: #f58220;
+}
+.thim-course-grid .course-item .course-thumbnail > a.course-readmore {
+  background: #f58220;
+  color: #fff;
+}
+.thim-course-grid .course-item .course-thumbnail > a.course-readmore:hover {
+  background: #145094;
+  color: #fff;
+}
+.course-item .course-thumbnail .course-wishlist-box .course-wishlisted {
+  color: #f58220;
+}
+.course-item .course-thumbnail .course-wishlist-box .course-wishlist:hover {
+  color: #f58220;
+}
+.learn-press .tab-content .course-wishlist-box {
+  background: #145094;
+}
+.learn-press .tab-content .course-wishlist-box span.fa.course-wishlisted {
+  color: #f58220;
+}
+.thim-course-list .course-item .thim-course-content .course-title a {
+  color: #145094;
+}
+.thim-course-list .course-item .thim-course-content .course-title a:hover {
+  color: #f58220;
+}
+.thim-course-list .course-item .thim-course-content .course-readmore a {
+  background: #f58220;
+  color: #fff;
+}
+.thim-course-list .course-item .thim-course-content .course-readmore a:hover {
+  background: #145094;
+  color: #fff;
+}
+.course-review .review-stars-rated .review-stars > li span,
+.rating-box .review-stars-rated .review-stars > li span {
+  color: #f58220;
+}
+.switch-layout-container .switch-layout a.switch-active,
+.switch-layout-container .switch-layout a:hover {
+  color: #f58220;
+}
+.thim-course-carousel .owl-controls .owl-next:hover,
+.thim-course-carousel .owl-controls .owl-prev:hover {
+  border-color: #f58220;
+}
+.thim-course-carousel .owl-controls .owl-next:hover .fa,
+.thim-course-carousel .owl-controls .owl-prev:hover .fa {
+  color: #f58220;
+}
+.thim-carousel-course-categories .owl-carousel .owl-buttons .owl-next,
+.thim-carousel-course-categories .owl-carousel .owl-buttons .owl-prev {
+  color: #145094;
+}
+.thim-carousel-course-categories .owl-carousel .owl-buttons .owl-next:hover,
+.thim-carousel-course-categories .owl-carousel .owl-buttons .owl-prev:hover {
+  background: rgba(245, 130, 32, 0.8);
+}
+.thim-carousel-course-categories .owl-carousel .owl-item .title a:hover {
+  color: #f58220;
+}
+.thim-widget-courses .view-all-courses {
+  color: #145094;
+}
+.thim-widget-courses .view-all-courses:hover {
+  color: #f58220;
+  border-color: #f58220;
+}
+.learn-press .course-payment .course-price .value {
+  color: #145094;
+}
+.learn-press .thim-enroll-course-button {
+  background: #f58220;
+  color: #fff;
+}
+.learn-press .thim-enroll-course-button:hover {
+  background: #145094;
+  color: #fff;
+}
+.learn-press .course-tabs .nav-tabs li a {
+  color: #145094;
+}
+.learn-press .course-tabs .nav-tabs li.active:before {
+  background: #f58220;
+}
+.learn-press .course-tabs .nav-tabs li.active a .fa {
+  color: #f58220;
+}
+.learn-press #finish-course {
+  background: #f58220;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.learn-press #finish-course:hover {
+  background: #145094;
+  color: #fff;
+}
+.learn-press #learn_press_payment_form .learn_press_payment_close:hover {
+  color: #f58220;
+}
+.learn-press
+  #learn_press_payment_form
+  .learn_press_payment_close
+  .learn_press_payment_checkout:hover {
+  background: #f58220;
+  color: #145094;
+}
+.learn-press .course-meta label .value {
+  color: #145094;
+}
+.learn-press .course-meta > div .value {
+  line-height: 16px;
+}
+.learn-press .course-meta > div .value.lp-progress-bar .lp-progress-value {
+  background: #f58220;
+}
+#learn-press-course-curriculum .section-content .course-lesson a,
+#learn-press-course-curriculum .section-content .course-quiz a {
+  color: #145094;
+}
+#learn-press-course-curriculum .section-content .course-lesson a:hover,
+#learn-press-course-curriculum .section-content .course-quiz a:hover {
+  color: #f58220;
+}
+#learn-press-course-curriculum
+  .section-content
+  .course-lesson
+  a.lesson-preview:hover,
+#learn-press-course-curriculum
+  .section-content
+  .course-quiz
+  a.lesson-preview:hover {
+  background: #f58220;
+  color: #145094;
+}
+#learn-press-course-curriculum
+  .section-content
+  .course-lesson
+  .course-format-icon
+  .fa,
+#learn-press-course-curriculum
+  .section-content
+  .course-quiz
+  .course-format-icon
+  .fa {
+  color: #f58220;
+}
+.course-content .complete-lesson-button {
+  background: #f58220;
+  color: #fff;
+}
+.course-content .complete-lesson-button:hover {
+  background: #145094;
+  color: #fff;
+}
+#tab-course-description .thim-course-info ul li span {
+  color: #145094;
+}
+#tab-course-description .thim-course-info ul li .fa {
+  color: #f58220;
+}
+.thim-course-menu-landing .thim-course-landing-tab li.active:before {
+  background: #f58220;
+}
+.thim-course-menu-landing .thim-course-landing-tab li a {
+  color: #145094;
+}
+.thim-course-menu-landing .thim-course-landing-button .course-price {
+  color: #145094;
+}
+#tab-course-review .course-rating > h3 {
+  color: #145094;
+}
+#tab-course-review .course-rating .rating-title {
+  color: #145094;
+}
+#tab-course-review .course-rating .average-rating .rating-box .average-value {
+  color: #f58220;
+  font-family: Montserrat;
+}
+#tab-course-review .course-rating .average-rating .rating-box .review-amount {
+  color: #145094;
+}
+#tab-course-review .course-rating .detailed-rating .stars > div.key {
+  color: #145094;
+}
+#tab-course-review
+  .course-rating
+  .detailed-rating
+  .stars
+  > div.bar
+  .full_bar
+  > div {
+  background: #f58220;
+}
+#tab-course-review .review-load-more #course-review-load-more {
+  background: #f58220;
+  color: #fff;
+}
+#tab-course-review .review-load-more #course-review-load-more:hover {
+  background: #145094;
+  color: #fff;
+}
+#tab-course-review .add-review .title {
+  color: #145094;
+}
+#tab-course-review .add-review .review-stars-rated {
+  color: #f58220;
+}
+#tab-course-review .add-review .review-stars-rated .review-stars {
+  color: #f58220;
+}
+#tab-course-review .add-review form label {
+  color: #145094;
+}
+#tab-course-review .add-review form button[type="submit"] {
+  background: #f58220;
+  color: #fff;
+}
+#tab-course-review .add-review form button[type="submit"]:hover {
+  background: #145094;
+  color: #fff;
+}
+.thim-testimonial-slider ul.scrollable li:before {
+  background: rgba(245, 130, 32, 0.6);
+}
+.thim-testimonial-slider .title {
+  color: #145094;
+}
+.thim-testimonial-slider .title a {
+  color: #145094;
+}
+.thim-testimonial-slider .control-nav:hover {
+  color: #f58220;
+  border-color: #f58220;
+}
+.thim-testimonial-slider .control-nav:hover:before {
+  color: #f58220;
+}
+.thim-widget-tab .nav-tabs li.active:before {
+  background: #f58220;
+}
+.thim-widget-tab .nav-tabs li.active:after {
+  background: #fff;
+}
+.thim-widget-tab .nav-tabs li.active a .fa {
+  color: #f58220;
+}
+.thim-widget-tab .nav-tabs li a {
+  color: #145094;
+}
+.thim-widget-tab .nav-tabs li a:hover {
+  color: #145094;
+}
+.become-teacher-form button[type="submit"] {
+  background: #f58220;
+  color: #fff;
+}
+.become-teacher-form button[type="submit"]:hover {
+  background: #145094;
+  color: #fff;
+}
+.thim-about-us-quote hr {
+  background: #f58220;
+}
+.rev_slider_wrapper .tp-bullet.selected {
+  background: #f58220;
+  border-color: #f58220;
+}
+.site-main .widget_text .widget-title:before {
+  background: #f58220;
+}
+.wrapper-lists-our-team a.join-our-team {
+  background: #f58220;
+  color: #fff;
+}
+.wrapper-lists-our-team a.join-our-team:hover {
+  background: #145094;
+  color: #fff;
+}
+.wrapper-lists-our-team .our-team-item .our-team-image:before {
+  background: rgba(245, 130, 32, 0.8);
+}
+.thim-list-event .view-all {
+  color: #145094;
+}
+.thim-list-event .view-all:hover {
+  color: #f58220;
+  border-color: #f58220;
+}
+.thim-list-event .item-event .time-from {
+  color: #f58220;
+}
+.thim-list-event .item-event .title a {
+  color: #145094;
+}
+.thim-list-event .item-event .title a:hover {
+  color: #f58220;
+}
+.thim-list-event.layout-2 .time-from {
+  border-color: #f58220;
+}
+.thim-list-event.layout-2 .view-all {
+  color: #f58220;
+  font-family: #145094;
+}
+.thim-login form#loginform p.login-remember label {
+  color: #145094;
+}
+.thim-login form#loginform > a.lost-pass-link {
+  color: #145094;
+}
+.thim-login form#loginform input[type="submit"],
+.thim-login form#lostpasswordform input[type="submit"],
+.thim-login form#registerform input[type="submit"],
+.thim-login form#resetpassform input[type="submit"] {
+  background: #f58220;
+  color: #fff;
+}
+.thim-login form#loginform input[type="submit"]:hover,
+.thim-login form#lostpasswordform input[type="submit"]:hover,
+.thim-login form#registerform input[type="submit"]:hover,
+.thim-login form#resetpassform input[type="submit"]:hover {
+  color: #fff;
+  background: #145094;
+}
+.thim-login form#registerform #reg_passmail {
+  color: #145094;
+}
+.thim-login form#registerform label[for="become_teacher"] {
+  color: #145094;
+}
+.thim-login .link-bottom {
+  color: #145094;
+}
+.thim-login .link-bottom a {
+  color: #f58220;
+}
+.list-tab-event .nav-tabs li a,
+.profile-tabs .nav-tabs li a {
+  color: #145094;
+}
+.list-tab-event .nav-tabs li.active:before,
+.profile-tabs .nav-tabs li.active:before {
+  background: #f58220;
+}
+.list-tab-event .nav-tabs li.active .fa,
+.profile-tabs .nav-tabs li.active .fa {
+  color: #f58220;
+}
+.tp-event-archive .entry-title h4 a {
+  color: #145094;
+}
+.tp-event-archive .entry-content .tp_event_view-detail {
+  background: #f58220;
+  color: #fff;
+}
+.tp-event-archive .entry-content .tp_event_view-detail:hover {
+  background: #145094;
+  color: #fff;
+}
+.thim-list-content li:before {
+  background: #f58220;
+}
+.tp-event-info .tp-info-box .heading {
+  color: #145094;
+}
+.tp-event-organizers .thim-carousel-wrapper .item .name {
+  color: #145094;
+}
+.tp-event-organizers .owl-buttons .owl-next:hover,
+.tp-event-organizers .owl-buttons .owl-prev:hover {
+  border-color: #f58220;
+}
+.tp-event-organizers .owl-buttons .owl-next:hover .fa,
+.tp-event-organizers .owl-buttons .owl-prev:hover .fa {
+  color: #f58220;
+}
+.course-content .course-content-lesson-nav a {
+  color: #145094;
+}
+.course-content .course-content-lesson-nav a:hover {
+  text-decoration: underline;
+}
+.single-quiz button.button-finish-quiz:hover,
+.single-quiz button.button-retake-quiz:hover,
+.single-quiz button.button-start-quiz:hover,
+.single-quiz button.check_answer:hover,
+.single-quiz button.next-question:hover,
+.single-quiz button.prev-question:hover {
+  background: #f58220;
+  color: #145094;
+}
+.single-quiz .back-to-course {
+  color: #145094;
+}
+.single-quiz .quiz-clock .quiz-total .quiz-text .number {
+  color: #f58220;
+}
+.single-quiz .quiz-clock .quiz-timer #quiz-countdown,
+.single-quiz .quiz-clock .quiz-timer #quiz-countdown-value {
+  color: #f58220;
+}
+.single-quiz .quiz-questions.list-quiz-questions ul li {
+  color: #145094;
+}
+.single-quiz .quiz-questions.list-quiz-questions ul li a {
+  color: #145094;
+}
+.single-quiz .quiz-questions.list-quiz-questions ul li a:hover {
+  color: #f58220;
+}
+.single-quiz .quiz-questions.list-quiz-questions ul li.current a {
+  color: #f58220;
+}
+.single-quiz .learn-press-question-wrap.checked li.user-answer-false {
+  color: #145094;
+}
+.single-quiz .learn-press-question-wrap.checked li.answer-true {
+  color: #145094;
+}
+.question-hint .quiz-hint-toggle {
+  color: #f58220;
+}
+.question-hint .quiz-hint-toggle .fa {
+  color: #666;
+}
+.bbpress .bbp-topic-description .bbp-author-name {
+  color: #f58220;
+}
+.bbpress #bbpress-forums li.bbp-header {
+  background: #f58220;
+}
+.bbpress #bbpress-forums li.bbp-body ul .bbp-author-name {
+  color: #f58220;
+}
+.bbpress #bbpress-forums li.bbp-body ul .bbp-forum-title,
+.bbpress #bbpress-forums li.bbp-body ul .bbp-topic-permalink {
+  color: #145094;
+}
+.bbpress #bbpress-forums li.bbp-body ul .bbp-forum-title:hover,
+.bbpress #bbpress-forums li.bbp-body ul .bbp-topic-permalink:hover {
+  color: #f58220;
+}
+.bbpress #bbpress-forums .bbp-breadcrumb a {
+  color: #145094;
+}
+.bbpress #bbpress-forums .bbp-breadcrumb a:hover {
+  color: #f58220;
+}
+.bbpress #bbpress-forums button:hover {
+  background: #f58220;
+  color: #145094;
+}
+.bbpress #bbpress-forums #bbp-single-user-details #bbp-user-navigation a:hover {
+  color: #f58220;
+}
+.bbpress
+  #bbpress-forums
+  #bbp-single-user-details
+  #bbp-user-navigation
+  li.current
+  a {
+  color: #f58220;
+}
+.bbpress #bbpress-forums #bbp-user-body a:hover {
+  color: #f58220;
+}
+.learn-press .message a,
+.message a {
+  color: #145094;
+}
+.learn-press .message a:hover,
+.message a:hover {
+  color: #145094;
+}
+.course-content .popup-title,
+.mfp-content .popup-title {
+  background: #f58220;
+  color: #145094;
+}
+#popup_title {
+  background-color: #f58220;
+  color: #145094;
+}
+#popup_panel #popup_cancel:hover,
+#popup_panel #popup_ok:hover {
+  background-color: #f58220;
+  color: #145094;
+}
+.profile-container
+  .profile-tabs
+  .tab-content
+  .thim-course-grid
+  .cert-profile-view {
+  color: #666;
+}
+.profile-container
+  .profile-tabs
+  .tab-content
+  .thim-course-grid
+  .cert-profile-view:hover {
+  color: #666;
+}
+ul.nav.nav-tabs li a {
+  font-family: Montserrat;
+}
+.mo-openid-app-icons > p {
+  color: #145094;
+}
+.thim-login .title {
+  font-family: Montserrat;
+}
+@media (max-width: 480px) {
+  .width-logo > a {
+    width: 127.5px;
+  }
+}
+.thim-footer-info > div.info-phone .fa {
+  color: #999;
+}
+a.widget-button {
+  background: #f58220;
+}
+.thim-what-it-about-desc .button .thim-button {
+  background: #f58220;
+  color: #fff;
+}
+.thim-what-it-about-desc .button .thim-button:hover {
+  background: #145094;
+}
+.thim-what-it-about-desc .thim-login-link {
+  color: #145094;
+}
+.thim-carousel-instructors .instructor-item .readmore {
+  color: #f58220;
+}
+.thim-carousel-instructors .instructor-item .readmore:hover {
+  color: #f58220;
+}
+.thim-color:hover {
+  color: #f58220;
+}
+.menu-right .thim-link-login a {
+  background: #f58220;
+  color: #fff !important;
+}
+.menu-right .thim-link-login a:hover {
+  background: #145094;
+  color: #fff !important;
+}
+.thim-hello-there .sub-heading {
+  color: #145094;
+}
+.thim-hello-there .description {
+  color: #145094;
+}
+.thim-widget-icon-box
+  .wrapper-box-icon.has_custom_image:not(.overlay)
+  .smicon-read {
+  font-family: Montserrat;
+  color: #f58220;
+}
+.thim-widget-icon-box
+  .wrapper-box-icon.has_custom_image:not(.overlay)
+  .smicon-read:hover {
+  color: #f58220;
+}
+.thim-join-the-elite-group:before {
+  background: #f58220;
+}
+.thim-join-the-elite-group .thim-widget-button .widget-button.normal {
+  border-color: #f58220;
+  background: #f58220;
+  color: #fff;
+}
+.thim-join-the-elite-group .thim-widget-button .widget-button.normal:hover {
+  border-color: #145094;
+  background: #145094;
+  color: #fff;
+}
+.thim-welcome-university .thim-register-now-form .wpcf7-form .wpcf7-submit {
+  background: #f58220;
+  color: #fff;
+}
+.thim-welcome-university
+  .thim-register-now-form
+  .wpcf7-form
+  .wpcf7-submit:hover {
+  background: #145094;
+  color: #fff;
+}
+.thim-latest-new-university .thim-owl-carousel-post .title a {
+  color: #145094;
+}
+.thim-latest-new-university .thim-owl-carousel-post .title a:hover {
+  color: #f58220;
+}
+.thim-latest-new-university .thim-owl-carousel-post .owl-controls .owl-next,
+.thim-latest-new-university .thim-owl-carousel-post .owl-controls .owl-prev {
+  border-color: #145094;
+}
+.thim-latest-new-university .thim-owl-carousel-post .owl-controls .owl-next .fa,
+.thim-latest-new-university
+  .thim-owl-carousel-post
+  .owl-controls
+  .owl-prev
+  .fa {
+  color: #145094;
+}
+.thim-latest-new-university
+  .thim-owl-carousel-post
+  .owl-controls
+  .owl-next:hover,
+.thim-latest-new-university
+  .thim-owl-carousel-post
+  .owl-controls
+  .owl-prev:hover {
+  border-color: #f58220;
+}
+.thim-latest-new-university
+  .thim-owl-carousel-post
+  .owl-controls
+  .owl-next:hover
+  .fa,
+.thim-latest-new-university
+  .thim-owl-carousel-post
+  .owl-controls
+  .owl-prev:hover
+  .fa {
+  color: #f58220;
+}
+.wrapper-lists-our-team .our-team-item .title a {
+  color: #145094;
+}
+.wrapper-lists-our-team .our-team-item .title a:hover {
+  color: #f58220;
+}
+.thim-login form#loginform input[type="email"]:focus,
+.thim-login form#loginform input[type="password"]:focus,
+.thim-login form#loginform input[type="text"]:focus,
+.thim-login form#registerform input[type="email"]:focus,
+.thim-login form#registerform input[type="password"]:focus,
+.thim-login form#registerform input[type="text"]:focus,
+.thim-login form#resetpassform input[type="text"]:focus,
+form#lostpasswordform p input[type="email"]:focus,
+form#lostpasswordform p input[type="password"]:focus,
+form#lostpasswordform p input[type="text"]:focus,
+form#registerform input[type="password"]:focus {
+  border-color: #f58220;
+}
+.thim-course-megamenu .course-title a {
+  color: #145094;
+}
+.thim-course-megamenu .course-title a:hover {
+  color: #f58220;
+}
+.thim-course-megamenu .course-readmore {
+  color: #fff;
+  background: #f58220;
+}
+.thim-course-megamenu .course-readmore:hover {
+  color: #fff;
+  background: #145094;
+}
+.site-header.header_v2 .width-navigation {
+  background: #fff;
+}
+.site-header.header_v2.bg-custom-sticky.affix .width-navigation {
+  background: #fff;
+}
+.breadcrumbs-wrapper #breadcrumbs a {
+  color: #666;
+}
+.breadcrumbs-wrapper #breadcrumbs a:hover {
+  color: #f58220;
+}
+#buddypress div.item-list-tabs#subnav ul li .current a,
+#buddypress div.item-list-tabs#subnav ul li.selected a {
+  color: #f58220;
+}
+#buddypress div.item-list-tabs ul li a {
+  color: #145094;
+}
+#buddypress div.item-list-tabs ul li.current:before,
+#buddypress div.item-list-tabs ul li.selected:before {
+  background: #f58220;
+}
+#buddypress div.item-list-tabs ul li.current a,
+#buddypress div.item-list-tabs ul li.selected a {
+  color: #145094;
+}
+#buddypress .bp-avatar-nav ul.avatar-nav-items li a {
+  color: #145094;
+}
+#buddypress .bp-avatar-nav ul.avatar-nav-items li.current:before,
+#buddypress .bp-avatar-nav ul.avatar-nav-items li.selected:before {
+  background: #f58220;
+}
+#buddypress .bp-avatar-nav ul.avatar-nav-items li.current a,
+#buddypress .bp-avatar-nav ul.avatar-nav-items li.selected a {
+  color: #145094;
+}
+#buddypress
+  .activity-list
+  .activity-content
+  .activity-header
+  a:not(.activity-time-since),
+#buddypress
+  .activity-list
+  .activity-content
+  .comment-header
+  a:not(.activity-time-since) {
+  color: #145094;
+}
+#buddypress
+  .activity-list
+  .activity-content
+  .activity-header
+  a:not(.activity-time-since):hover,
+#buddypress
+  .activity-list
+  .activity-content
+  .comment-header
+  a:not(.activity-time-since):hover {
+  color: #f58220;
+}
+#buddypress form#whats-new-form #whats-new:focus {
+  border-color: #f58220 !important;
+}
+#buddypress input[type="submit"] {
+  background: #f58220;
+  color: #145094;
+}
+#buddypress input[type="submit"]:hover {
+  color: #145094;
+}
+#buddypress a.button {
+  background: #145094;
+}
+#buddypress a.button:hover {
+  background: #f58220;
+  color: #145094;
+}
+#buddypress a.button:hover > span {
+  color: #145094;
+}
+#buddypress .standard-form label,
+#buddypress .standard-form span.label {
+  color: #145094;
+}
+#buddypress .current-visibility-level {
+  color: #145094;
+}
+#buddypress label {
+  color: #145094;
+}
+#buddypress .acomment-meta a:first-child {
+  color: #145094;
+}
+#buddypress .acomment-meta a:first-child:hover {
+  color: #f58220;
+}
+#buddypress div.activity-comments > ul > li .acomment-options a {
+  color: #f58220;
+}
+#buddypress div.activity-comments > ul > li .acomment-options a:hover {
+  color: #f58220;
+}
+#buddypress
+  div.activity-comments
+  li
+  form.ac-form
+  .ac-reply-content
+  input[type="submit"] {
+  background: #f58220;
+  color: #145094;
+}
+#buddypress
+  div.activity-comments
+  li
+  form.ac-form
+  .ac-reply-content
+  .ac-reply-cancel {
+  background: #145094;
+}
+#buddypress
+  div.activity-comments
+  li
+  form.ac-form
+  .ac-reply-content
+  .ac-reply-cancel:hover {
+  background: #f58220;
+  color: #145094;
+}
+#buddypress #members-list li .item .item-title > a {
+  color: #145094;
+}
+#buddypress #members-list li .item .item-title > a:hover {
+  color: #f58220;
+}
+#buddypress #members-list li .item .item-title .activity-read-more a {
+  color: #f58220;
+}
+#buddypress #members-list li .item .item-title .activity-read-more a:hover {
+  color: #f58220;
+}
+#buddypress div#item-header div.generic-button > a {
+  background: #145094;
+}
+#buddypress div#item-header div.generic-button > a:hover {
+  background: #f58220;
+  color: #145094;
+}
+#buddypress div#item-header .item-meta {
+  color: #666;
+}
+#buddypress div#item-header .item-meta a {
+  color: #f58220;
+}
+#buddypress div#item-header .item-meta a:hover {
+  color: #f58220;
+}
+.activity-list li.bbp_reply_create .activity-content .activity-inner,
+.activity-list li.bbp_topic_create .activity-content .activity-inner {
+  border-color: #f58220;
+}
+.portfolio_container .wapper_portfolio .filters .portfolio-tabs li a.filter,
+.thim-widget-portfolio .wapper_portfolio .filters .portfolio-tabs li a.filter {
+  color: #666;
+}
+.portfolio_container
+  .wapper_portfolio
+  .filters
+  .portfolio-tabs
+  li
+  a.filter:hover,
+.thim-widget-portfolio
+  .wapper_portfolio
+  .filters
+  .portfolio-tabs
+  li
+  a.filter:hover {
+  color: #145094;
+  border-color: #f58220;
+}
+.portfolio_container .wapper_portfolio .filters .portfolio-tabs li a.active,
+.thim-widget-portfolio .wapper_portfolio .filters .portfolio-tabs li a.active {
+  color: #145094;
+  border-color: #f58220;
+}
+.portfolio_container
+  .wapper_portfolio
+  .portfolio_column
+  .portfolio-hover
+  .mask-content
+  h3,
+.thim-widget-portfolio
+  .wapper_portfolio
+  .portfolio_column
+  .portfolio-hover
+  .mask-content
+  h3 {
+  font-size: 24px;
+  font-weight: 200;
+}
+.portfolio-content .tags ul li a {
+  color: #f58220;
+}
+.portfolio-content .flex-direction-nav li a {
+  background: #f58220 !important;
+}
+.portfolio-content .flex-direction-nav li a:hover:before {
+  color: #f58220 !important;
+}
+.rev-btn.thim-slider-button {
+  background: #f58220;
+  color: #fff;
+}
+.rev-btn.thim-slider-button:hover {
+  color: #fff;
+  background: #145094 !important;
+}
+.thim-buy-now .thim-widget-button .widget-button:hover {
+  background: #145094;
+  border-color: #145094;
+}
+.site-header.header_v2 .navigation .navbar-nav > li > a:before,
+.site-header.header_v2 .navigation .navbar-nav > li > span:before {
+  background: rgba(20, 80, 148, 0.45);
+}
+.learn-press-cart-table tbody .cart_item td a {
+  color: #145094;
+}
+.learn-press-cart-table tbody .cart_item .course-name a:hover {
+  color: #f58220;
+}
+form.lp-cart .checkout-button {
+  background-color: #f58220;
+}
+form.lp-cart .checkout-button:hover {
+  background-color: #145094;
+}
+form.lp-checkout .logged-in {
+  border-left: 3px solid #f58220;
+}
+form.lp-checkout .logged-in a {
+  color: #f58220;
+}
+#learn-press-checkout-user-form
+  #learn-press-checkout-user-login
+  ul.form-fields
+  li
+  button {
+  background-color: #f58220;
+}
+#learn-press-checkout-user-form
+  #learn-press-checkout-user-register
+  .form-content
+  a {
+  background-color: #f58220;
+}
+.learn-press .tab-content .course-wishlist-box span.text {
+  font-family: Montserrat;
+}
+.learn-press .view-cart-button {
+  background: #145094;
+}
+.learn-press .view-cart-button:hover {
+  color: #145094;
+  background: #f58220;
+}
+#learn-press-payment .place-order-action input.button {
+  background-color: #f58220;
+}
+.list-book-event tbody td a,
+.list-book-event tbody th a,
+.list-book-event thead td a,
+.list-book-event thead th a {
+  color: #f58220;
+}
+#learn-press-finish-course {
+  color: #fff;
+  background: #f58220;
+}
+#learn-press-finish-course:hover {
+  background: #145094;
+}
+form.lp-cart .checkout-button {
+  color: #145094;
+}
+#learn-press-checkout-user-form
+  #learn-press-checkout-user-login
+  ul.form-fields
+  li
+  button {
+  color: #fff;
+  background-color: #f58220;
+}
+#learn-press-checkout-user-form
+  #learn-press-checkout-user-login
+  ul.form-fields
+  li
+  button:hover {
+  background-color: #145094;
+}
+#learn-press-checkout-user-form
+  #learn-press-checkout-user-register
+  .form-content
+  a {
+  color: #fff;
+  background-color: #f58220;
+}
+#learn-press-checkout-user-form
+  #learn-press-checkout-user-register
+  .form-content
+  a:hover {
+  background-color: #145094;
+}
+#learn-press-payment .place-order-action input.button {
+  color: #fff;
+  background-color: #f58220;
+}
+#learn-press-payment .place-order-action input.button:hover {
+  background-color: #145094;
+}
+.list-book-event tbody td a,
+.list-book-event tbody th a,
+.list-book-event thead td a,
+.list-book-event thead th a {
+  color: #fff;
+}
+.list-book-event tbody td a:hover,
+.list-book-event tbody th a:hover,
+.list-book-event thead td a:hover,
+.list-book-event thead th a:hover {
+  color: #f58220;
+}
+.overlay-black .thim-widget-courses-searching .courses-searching button {
+  background: #f58220;
+}
+.list-info li i {
+  color: #f58220;
+}
+.btn-primary {
+  background-color: #f58220;
+  border-color: #f58220;
+}
+.btn-border:hover {
+  color: #f58220;
+  border-color: #f58220;
+}
+input[type="radio"]:checked:before {
+  background-color: #f58220;
+}
+input[type="checkbox"]:checked:before {
+  color: #f58220;
+}
+.event_button_disable {
+  background: #f58220;
+  color: #145094;
+}
+#learn-press-form-login a.lost-pass-link {
+  color: #145094;
+}
+#learn-press-form-login a.lost-pass-link:hover {
+  color: #145094;
+}
+#learn-press-form-login p label {
+  color: #145094;
+}
+#learn-press-form-login input[type="email"]:focus,
+#learn-press-form-login input[type="password"]:focus,
+#learn-press-form-login input[type="text"]:focus {
+  border-color: #f58220;
+}
+#learn-press-form-login input[type="submit"] {
+  background: #f58220;
+  color: #fff;
+}
+#learn-press-form-login input[type="submit"]:hover {
+  background: #145094;
+}
+.thim-category-tabs .nav-tabs li a {
+  color: #145094;
+}
+.thim-category-tabs .nav-tabs li a:hover {
+  color: #f58220;
+  border-bottom: 1px solid #f58220;
+}
+.thim-category-tabs .nav-tabs li.active a {
+  color: #f58220;
+  border-bottom: 1px solid #f58220;
+}
+.owl-controls .owl-pagination .owl-page.active,
+.owl-controls .owl-pagination .owl-page:hover {
+  background: #f58220;
+  border-color: #f58220;
+}
+.thim-product-switch-wrap form.woocommerce-ordering select:focus {
+  border-color: #f58220;
+}
+aside .woof_container_size .woof_list li input[type="radio"] {
+  border: 2px solid #f58220;
+}
+aside .woof_container_size .woof_list li input[type="radio"]:checked:before {
+  background-color: #f58220;
+  margin: 3px;
+}
+.widget-area aside.WOOF_Widget .woof_container .woof_container_inner::before {
+  background-color: #f58220;
+}
+.thim-university-top-icon .thim-widget-icon-box .wrapper-box-icon {
+  border-right-color: #145094;
+}
+.woocommerce-page .woocommerce .woocommerce-info a,
+.woocommerce-page .woocommerce .woocommerce-message a {
+  color: #f58220;
+}
+.thim-widget-icon-box .line-heading {
+  background: #f58220;
+}
+.landing-image .title a {
+  color: #145094;
+}
+.landing-image .title a:hover {
+  color: #f58220;
+}
+.thim-testimonial-carousel .content .title .line {
+  border-bottom: 1px solid #145094;
+}
+.thim-testimonial-carousel .content .title .line:before {
+  border-top-color: #145094;
+}
+.thim-testimonial-carousel .content .title .line:after {
+  border-top-color: #f58220;
+}
+.thim-testimonial-carousel .content .description {
+  color: #145094;
+}
+.thim-testimonial-carousel .owl-buttons .owl-next,
+.thim-testimonial-carousel .owl-buttons .owl-prev {
+  color: #f58220;
+}
+.thim-testimonial-carousel .owl-buttons .owl-next:hover,
+.thim-testimonial-carousel .owl-buttons .owl-prev:hover {
+  color: #145094;
+}
+body.page-template-landing-page .navigation .navbar-nav #magic-line {
+  background: #f38230;
+}
+.pmpro-has-access a {
+  color: #f58220;
+}
+.pmpro-has-access .navigation a,
+.pmpro-has-access .pmpro_actionlinks a {
+  color: #145094;
+}
+.pmpro-has-access .navigation a:hover,
+.pmpro-has-access .pmpro_actionlinks a:hover {
+  color: #f58220;
+}
+.pmpro-has-access a.pmpro_btn,
+.pmpro-has-access input.pmpro_btn {
+  background-color: #f58220;
+  color: #fff;
+}
+.pmpro-has-access a.pmpro_btn:hover,
+.pmpro-has-access input.pmpro_btn:hover {
+  background-color: #145094;
+  color: #fff;
+}
+.pmpro-has-access #pmpro_cancel hr {
+  display: none;
+}
+.pmpro-has-access #pmpro_cancel h3 {
+  margin: 0 0 30px 0;
+  text-transform: uppercase;
+}
+.pmpro-has-access #pmpro_account-invoices tbody tr td a,
+.pmpro-has-access #pmpro_invoices_table tbody tr td a {
+  color: #145094;
+}
+.pmpro-has-access #pmpro_account-invoices tbody tr td a:hover,
+.pmpro-has-access #pmpro_invoices_table tbody tr td a:hover {
+  color: #f58220;
+}
+.pmpro-has-access #pmpro_billing_address_fields thead th,
+.pmpro-has-access #pmpro_payment_information_fields thead th {
+  color: #145094;
+}
+.pmpro-has-access .pmpro_thead-name {
+  color: #145094;
+}
+.widget-area.sidebar-events .book-title {
+  background: #f58220;
+}
+.widget-area.sidebar-events .book-title:before {
+  border-top-color: #f58220;
+}
+.widget-area.sidebar-events .widget_book-event ul li.event-cost .value {
+  color: #f58220;
+}
+.thim-buy-now-desc:before {
+  background: #f58220;
+}
+.widget-area.sidebar-events
+  .widget_book-event
+  .event_register_foot
+  .event_register_submit {
+  background: #f58220;
+  color: #fff;
+}
+.widget-area.sidebar-events
+  .widget_book-event
+  .event_register_foot
+  .event_register_submit:hover {
+  background: #145094;
+  color: #fff;
+}
+.lp_pmpro_courses_by_level .level-wrap .lp_pmpro_title_course span {
+  color: #145094;
+}
+.lp_pmpro_courses_by_level .level-wrap ul li a:hover {
+  color: #145094;
+}
+.lp_pmpro_courses_by_level .level-wrap header .lp_pmpro_price_level .price {
+  color: #145094;
+}
+.lp_pmpro_courses_by_level .level-wrap header .lp_pmpro_title_level:before {
+  background: #f58220;
+}
+.lp_pmpro_courses_by_level .level-wrap footer a {
+  background: #f58220;
+  color: #fff;
+}
+.lp_pmpro_courses_by_level .level-wrap footer a:hover {
+  background: #145094;
+}
+#thim-popup-login .thim-login-container .link-bottom a {
+  color: #f58220;
+}
+#thim-popup-login .thim-login-container .close-popup {
+  background: #f58220;
+}
+.thim-other-member:hover .owl-buttons .owl-next:hover,
+.thim-other-member:hover .owl-buttons .owl-prev:hover {
+  border-color: #f58220;
+}
+.thim-other-member:hover .owl-buttons .owl-next:hover .fa,
+.thim-other-member:hover .owl-buttons .owl-prev:hover .fa {
+  color: #f58220;
+}
+.thim-owl-carousel-post.thim-list-posts .info {
+  background: #f58220;
+}
+.thim-owl-carousel-post.thim-list-posts .read-more {
+  font-family: Montserrat;
+  color: #f58220;
+}
+.thim-owl-carousel-post.thim-list-posts .title a {
+  color: #145094;
+}
+.thim-owl-carousel-post.thim-list-posts .title a:hover {
+  color: #f58220;
+}
+.thim-timetable-link {
+  color: #fff;
+  background: #f58220;
+}
+.thim-timetable-link:hover {
+  color: #fff;
+  background: #145094;
+}
+.woocommerce-MyAccount-navigation li.is-active:before {
+  background: #f58220;
+}
+.woocommerce-MyAccount-navigation li a {
+  color: #145094;
+}
+.woocommerce-MyAccount-content legend {
+  font-family: Montserrat;
+}
+.woocommerce-MyAccount-content form input.button {
+  background: #f58220 !important;
+  color: #fff !important;
+}
+.woocommerce-MyAccount-content form input.button:hover {
+  background: #145094 !important;
+  color: #fff !important;
+}
+.user-info .edit-profile a {
+  color: #f58220;
+}
+.user-info .edit-profile a:hover {
+  color: #f58220;
+}
+.thim-search-light-style
+  .thim-widget-courses-searching
+  .courses-searching
+  button {
+  background: #f58220;
+}
+.thim-search-light-style
+  .thim-widget-courses-searching
+  .courses-searching
+  button:hover {
+  background: #145094;
+}
+.thim-button-checkout {
+  color: #fff;
+  background: #f58220;
+}
+.thim-button-checkout:hover {
+  background: #145094;
+}
+.thim-text-title:before {
+  background: #f58220;
+}
+body .vc_tta.vc_general .vc_active .vc_tta-panel-title > a:before,
+body .vc_tta.vc_general .vc_tta-panel-title:hover > a:before {
+  background: #f58220;
+}
+body
+  .vc_tta.vc_general
+  .vc_active
+  .vc_tta-panel-title
+  .vc_tta-controls-icon:after,
+body
+  .vc_tta.vc_general
+  .vc_active
+  .vc_tta-panel-title
+  .vc_tta-controls-icon:before,
+body .vc_tta.vc_general .vc_tta-panel-title:hover .vc_tta-controls-icon:after,
+body .vc_tta.vc_general .vc_tta-panel-title:hover .vc_tta-controls-icon:before {
+  border-color: #f58220;
+}
+.thim-widget-accordion .widget-title:after,
+.vc_tta-container[data-vc-action*="collapse"] > h2:after {
+  background: #145094;
+}
+body .vc_tta.vc_tta-spacing-1 .vc_tta-tab.vc_active:before {
+  background: #f58220;
+}
+body .vc_tta.vc_tta-spacing-1 .vc_tta-tab.vc_active a .fa {
+  color: #f58220;
+}
+body .vc_tta.vc_tta-spacing-1 .vc_tta-tab a {
+  color: #145094;
+}
+.thim-widget-courses .view-all-courses.position-bottom {
+  background: #f58220;
+  color: #fff;
+}
+.thim-widget-courses .view-all-courses.position-bottom:hover {
+  background: #145094;
+}
+a.thim-create-menu {
+  color: #145094;
+}
+a.thim-create-menu:hover {
+  color: #145094;
+}
+#respond.comment-respond .comment-form .comment-form-author input:focus,
+#respond.comment-respond .comment-form .comment-form-email input:focus,
+#respond.comment-respond .comment-form .comment-form-url input:focus,
+#respond.comment-respond .comment-form textarea:focus {
+  border-color: #f58220;
+}
+.woocommerce .add_to_cart_button.ajax_add_to_cart {
+  color: #fff;
+  background: #f58220;
+}
+.woocommerce .add_to_cart_button.ajax_add_to_cart:hover {
+  background: #145094;
+  color: #fff;
+}
+.textwidget .add_to_cart_inline .amount {
+  color: #145094;
+}
+.woocommerce
+  .woocommerce-tabs
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  p
+  input:focus,
+.woocommerce
+  .woocommerce-tabs
+  #reviews
+  #review_form_wrapper
+  .comment-form
+  p
+  textarea:focus {
+  border-color: #f58220;
+}
+.section .section-header > a {
+  color: #145094;
+}
+.woocommerce #customer_login input[type="email"]:focus,
+.woocommerce #customer_login input[type="password"]:focus,
+.woocommerce #customer_login input[type="text"]:focus {
+  border-color: #f58220 !important;
+}
+#your-profile input[type="submit"] {
+  color: #145094;
+  background: #f58220;
+}
+#your-profile input[type="submit"]:hover {
+  background: #145094;
+  color: #145094;
+}
+#your-profile .link-change-password {
+  color: #f58220;
+}
+body #course-curriculum-popup #popup-main #popup-header {
+  background: #f58220;
+}
+body #course-curriculum-popup #popup-main #popup-header .popup-close {
+  background: #145094;
+}
+body #course-curriculum-popup #popup-main #popup-header .popup-close:hover {
+  background: #145094;
+}
+body #popup_container #popup_title {
+  background: #f58220;
+  color: #145094;
+}
+body #popup_panel #popup_ok {
+  background: #f58220;
+  color: #145094;
+}
+body #popup_panel #popup_ok:hover {
+  background: #145094;
+}
+.quiz-buttons .button-check-answer,
+.quiz-buttons .button-hint,
+.quiz-buttons .button-next-question,
+.quiz-buttons .button-prev-question {
+  background: #145094;
+}
+.quiz-buttons .button-check-answer:hover,
+.quiz-buttons .button-hint:hover,
+.quiz-buttons .button-next-question:hover,
+.quiz-buttons .button-prev-question:hover {
+  background: #f58220;
+  color: #145094;
+}
+.cssload-loader-style-2 {
+  border-color: #f58220;
+}
+.cssload-loader-inner-style-2 {
+  background-color: #f58220;
+}
+.thim-demo-university-3 .rev-btn,
+.thim-demo-university-4 .rev-btn {
+  font-family: Montserrat;
+}
+.thim-owl-carousel-post.layout-2 .title a {
+  color: #145094;
+}
+.thim-owl-carousel-post.layout-2 .owl-controls .owl-buttons .owl-next:hover,
+.thim-owl-carousel-post.layout-2 .owl-controls .owl-buttons .owl-prev:hover {
+  color: #f58220;
+}
+.thim-owl-carousel-post.layout-2 .owl-controls .owl-buttons .owl-next:hover i,
+.thim-owl-carousel-post.layout-2 .owl-controls .owl-buttons .owl-prev:hover i {
+  color: #f58220;
+}
+.thim-owl-carousel-post.layout-3 .owl-controls .owl-buttons .owl-next:hover,
+.thim-owl-carousel-post.layout-3 .owl-controls .owl-buttons .owl-prev:hover {
+  color: #f58220;
+}
+.thim-owl-carousel-post.layout-3 .owl-controls .owl-buttons .owl-next:hover .fa,
+.thim-owl-carousel-post.layout-3
+  .owl-controls
+  .owl-buttons
+  .owl-prev:hover
+  .fa {
+  color: #f58220;
+}
+.thim-widget-carousel-categories .link-view-all {
+  color: #145094;
+}
+.thim-widget-carousel-categories .link-view-all:hover {
+  color: #f58220;
+}
+.thim-widget-carousel-categories .content-wrapper {
+  background: #f58220;
+}
+.thim-sidebar-content .twitter-inner a:hover {
+  color: #f58220;
+}
+.thim-experience .title {
+  color: #f58220;
+}
+.thim-grid-posts .article-wrapper .title a {
+  color: #145094;
+}
+.thim-grid-posts .article-wrapper .read-more {
+  color: #145094;
+}
+.thim-grid-posts .article-wrapper:hover .title a {
+  color: #f58220;
+}
+.grid-horizontal .item-post:nth-child(2n) .article-wrapper {
+  background: #f58220;
+}
+.grid-horizontal .item-post:nth-child(2n) .article-wrapper:before {
+  border-left-color: #f58220;
+}
+.thim-list-post-inner .link_read_more a {
+  color: #145094;
+}
+.thim-list-post-inner .link_read_more a:hover {
+  color: #f58220;
+}
+.thim-footer-info-3 .heading {
+  color: #f58220;
+}
+.cssload-loader-style-3 .sk-cube:before {
+  background-color: #f58220;
+}
+.thim-font-heading {
+  font-family: Montserrat;
+}
+#learn-press-course-curriculum ul.curriculum-sections .section-header .meta {
+  color: #f58220;
+}
+#learn-press-course-curriculum
+  ul.curriculum-sections
+  .section-content
+  .course-lesson.current:after,
+#learn-press-course-curriculum
+  ul.curriculum-sections
+  .section-content
+  .course-lesson.item-current:after,
+#learn-press-course-curriculum
+  ul.curriculum-sections
+  .section-content
+  .course-quiz.current:after,
+#learn-press-course-curriculum
+  ul.curriculum-sections
+  .section-content
+  .course-quiz.item-current:after {
+  background: #f58220;
+}
+#learn-press-course-curriculum
+  ul.curriculum-sections
+  .section-content
+  .course-lesson
+  .lesson-preview:hover,
+#learn-press-course-curriculum
+  ul.curriculum-sections
+  .section-content
+  .course-quiz
+  .lesson-preview:hover {
+  color: #145094;
+  background: #f58220;
+}
+#your-profile input[type="submit"] {
+  color: #145094;
+  background: #f58220;
+}
+#your-profile input[type="submit"]:hover {
+  background: #145094;
+  color: #145094;
+}
+#your-profile .link-change-password {
+  color: #f58220;
+}
+body #course-curriculum-popup #popup-header {
+  background: #f58220;
+}
+body #course-curriculum-popup #popup-header .popup-close {
+  background: #145094;
+}
+body #course-curriculum-popup #popup-header .popup-close:hover {
+  background: #145094;
+}
+body #popup_container #popup_title {
+  background: #f58220;
+  color: #145094;
+}
+body #popup_panel #popup_ok {
+  background: #f58220;
+  color: #145094;
+}
+body #popup_panel #popup_ok:hover {
+  background: #145094;
+}
+.quiz-buttons .button-check-answer,
+.quiz-buttons .button-hint,
+.quiz-buttons .button-next-question,
+.quiz-buttons .button-prev-question {
+  background: #145094;
+}
+.quiz-buttons .button-check-answer:hover,
+.quiz-buttons .button-hint:hover,
+.quiz-buttons .button-next-question:hover,
+.quiz-buttons .button-prev-question:hover {
+  background: #f58220;
+  color: #145094;
+}
+#popup-sidebar .learn-press-breadcrumb a {
+  color: #f58220;
+}
+#popup-sidebar .learn-press-breadcrumb .fa {
+  color: #f58220;
+}
+#learn-press-course-curriculum
+  ul.curriculum-sections
+  .section-header:hover
+  .collapse {
+  color: #f58220;
+}
+.cssload-loading i {
+  background: #f58220;
+}
+.lp-pmpro-membership-list .header-item.position-2:before {
+  background: #f58220;
+}
+.lp-pmpro-membership-list .item-td a:hover {
+  color: #f58220;
+}
+.lp-pmpro-membership-list .lp-price {
+  color: #145094;
+}
+form.pmpro_form .lp-pmpro-name {
+  background: #f58220;
+}
+li.product-category h3:hover {
+  color: #f58220;
+}
+.thim-title-4 .widget-title {
+  color: #145094;
+}
+.thim-right-bg-secondary-color:before {
+  background: #1c83bf;
+}
+.thim-left-full-bg-secondary-color:before {
+  background: #1c83bf;
+}
+.list-event-slider .view-all:hover {
+  color: #f58220;
+}
+.list-event-slider .item-event .event-wrapper .box-time:before {
+  border: 2px solid #1c83bf;
+}
+.list-event-slider .item-event .event-wrapper .box-time:after {
+  background: #1c83bf;
+}
+.list-event-slider .item-event .event-wrapper .title a {
+  color: #145094;
+}
+.list-event-slider .item-event .event-wrapper .read-more {
+  color: #145094;
+}
+.thim-footer-university-4#colophon .copyright-area .text-copyright a {
+  color: #1c83bf;
+}
+.thim-footer-university-4#colophon .mc4wp-form:after {
+  color: #1c83bf;
+}
+.thim-footer-university-4#colophon .mc4wp-form.focus-input:after {
+  color: #1c83bf;
+}
+.thim-footer-university-4#colophon .menu li a:hover {
+  color: #1c83bf !important;
+}
+.thim-footer-university-4#colophon .email a {
+  color: #1c83bf;
+}
+.thim-footer-university-4#colophon .email a:hover {
+  color: #1c83bf !important;
+}
+.thim-footer-university-4#colophon .thim-social.style-3 li a:hover {
+  color: #1c83bf !important;
+}
+.thim-footer-info-4 .info .heading {
+  color: #1c83bf;
+}
+.thim-simple-wrapper .navigation div:hover {
+  background: #1c83bf;
+}
+.thim-simple-wrapper .pagination .item.active {
+  border-color: #1c83bf;
+}
+.thim-simple-wrapper .event-wrapper:hover .title a {
+  color: #f58220;
+}
+.thim-widget-carousel-categories .content-wrapper:before {
+  border-right-color: #f58220;
+}
+.thim-right-bg-secondary-color .thim-list-post-inner .link_read_more a:hover {
+  color: #f58220;
+}
+.course-payment .woocommerce-message a.button,
+.thim-course-landing-button .woocommerce-message a.button {
+  background: #f58220;
+  color: #fff;
+}
+.course-payment .woocommerce-message a.button:hover,
+.thim-course-landing-button .woocommerce-message a.button:hover {
+  background: #145094;
+}
+.blog-switch-layout.blog-grid article .entry-grid-meta:before {
+  background: #f58220;
+}
+.woocommerce-product-search:after {
+  background: #f58220;
+}
+.loop-pagination .page-number {
+  color: #145094;
+  background: #f58220;
+  border-color: #f58220;
+}
+.loop-pagination a:hover .page-number {
+  color: #145094;
+  background: #f58220;
+  border-color: #f58220;
+}
+.learn-press-pmpro-buy-membership a.button:hover {
+  color: #145094;
+  background: #f58220;
+}
+.learn-press-pagination.navigation.pagination li .page-numbers:hover {
+  color: #145094;
+}
+.lp-course-progress .progress-heading span {
+  color: #145094;
+}
+.lp-course-progress .lp-progress-bar .lp-progress-value {
+  background: #f58220;
+}
+footer#colophon {
+  background-image: url("");
+}
+#logged_in_user {
+  display: none;
+}
+.thim-course-list .course-item .thim-course-content .course-price .value {
+  display: none;
+}
+.cssload-loader-style-2 {
+  display: none !important;
+}
